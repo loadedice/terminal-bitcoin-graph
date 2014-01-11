@@ -1,4 +1,6 @@
-cli-bitcoin-graph
+terminal-bitcoin-graph
 =================
 
-Using gnuplot and python3 this 
+##REQUIREMENTS
+Gnuplot
+Python 3
