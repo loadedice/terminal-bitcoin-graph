@@ -10,5 +10,8 @@ terminal-bitcoin-graph
 * Support other api's (Should currently support BTC-E's api's)
 * make the time on the X axis show the hour as well (I'm not sure why it isn't right now, maybe it only shows up when it's ploting more than 1 hour?)
 
+###CREDITS
+McFunDash for termsiz.py (https://github.com/mcfundash/textgame/blob/master/termsiz.py)
+
 ####Output example
 ![](http://a.pomf.se/cielpz.png)
